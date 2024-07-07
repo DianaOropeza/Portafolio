@@ -1,8 +1,8 @@
 
 <h1 align="center"> Portafolio </h1>
 Este es mi primer portafolio, donde he colocado proyecto que he realizado en tanto en alura como extras. </br>
-Aparte agregue un formulario por si deseas contactarme. 
-https://github.com/DianaOropeza/Portafolio/blob/main/Imagenes/port1.png
+Aparte agregue un formulario por si deseas contactarme. </br>
+![Captura](https://github.com/DianaOropeza/Portafolio/blob/main/Imagenes/port1.png)
 
 <h2 align="center"> Entra al link para visualizar el portafolio </h2>
 \## 📁 Acceso al proyecto
